@@ -40,5 +40,4 @@ It demonstrates version control best practices, infrastructure awareness, and De
 
 \## Author
 
-Elijah
-
+Elij
